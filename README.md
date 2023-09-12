@@ -3,7 +3,7 @@
 ## grep
 Grep is a command line tool used for searching for text matching a query in a document. The basic syntax is:
 bash```
-grep <search query> <file to search>
+grep <searchQuery> <fileToSearch>
 ```
 For example:
 bash```
